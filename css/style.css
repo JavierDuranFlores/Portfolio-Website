@@ -365,6 +365,10 @@ header .navbar ul li a:hover {
     font-weight: normal;
 }
 
+.contact .row .content .info h3 span{
+    text-transform: none;
+}
+
 .contact .row .content .info h3 i{
     padding-right: 1rem;
     color: var(--purple);
